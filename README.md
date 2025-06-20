@@ -1,18 +1,14 @@
 # Repository
 #### 'Genetic recovery of two wild seatrout populations following long-term stocking with non-native conspecifics' (Bekkevold et al., 2025)
 
-Repository for the scripts on the study of the long-term effects of stocking in sea trout (Salmo trutta L.) in two rivers in Denmark.
+Repository for the dataset and script on the study of the long-term effects of stocking in sea trout (Salmo trutta L.) in two rivers in Denmark.
 
 ### Methodology and scripts:
-- Dataset used for the analysis:x
+- Dataset:
 
-  We used [this file](), consisting of X and X genotypes of X individuals, belonging to X.
+  We used [this dataset]() for the analysis included in the paper
 
-- Population genetics:
+- Scripts:
 
-  We used [this script]() to perform x, x and analysis.
-
-- Selection tests:
-
-  We used [this script](https://github.com/BelenJM/SeaTrout_Genetic_Recovery/blob/main/outlier_temporal_script.R) to run signasel on the dataset to look for changes in allele frequencies that can be explained by selection.
+  We used [this script](https://github.com/BelenJM/SeaTrout_Genetic_Recovery/blob/main/outlier_temporal_script.R) to run signasel on the dataset to look for changes in allele frequencies that can be explained by selection
 
