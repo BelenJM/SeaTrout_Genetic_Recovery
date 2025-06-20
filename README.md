@@ -14,5 +14,5 @@ Repository for the scripts on the study of the long-term effects of stocking in 
 
 - Selection tests:
 
-  We used [this script]() to run signasel on the dataset to look for changes in allele frequencies that can be explained by selection.
+  We used [this script](https://github.com/BelenJM/SeaTrout_Genetic_Recovery/blob/main/outlier_temporal_script.R) to run signasel on the dataset to look for changes in allele frequencies that can be explained by selection.
 
